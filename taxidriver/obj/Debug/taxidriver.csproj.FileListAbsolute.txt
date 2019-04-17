@@ -1,0 +1,85 @@
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\bin\Debug\taxidriver.exe.config
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\bin\Debug\taxidriver.exe
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\bin\Debug\taxidriver.pdb
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\obj\Debug\taxidriver.frmPrincipal.resources
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\obj\Debug\taxidriver.Properties.Resources.resources
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\obj\Debug\taxidriver.csproj.GenerateResource.cache
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\obj\Debug\taxidriver.exe
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\obj\Debug\taxidriver.pdb
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmPadres.frmPGestionar.resources
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmPadres.frmPTitulo.resources
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHChofer.resources
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHCliente.resources
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHEventual.resources
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHRegistrarServicio.resources
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHUsuario.resources
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHVehiculos.resources
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmLogin.resources
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\obj\Debug\taxidriver.csprojAssemblyReference.cache
+C:\Users\ADMIN\Videos\project\taxidriver\taxidriver\obj\Debug\taxidriver.csproj.CoreCompileInputs.cache
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\bin\Debug\taxidriver.exe.config
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\bin\Debug\taxidriver.exe
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\bin\Debug\taxidriver.pdb
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.csprojAssemblyReference.cache
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHChofer.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHCliente.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHEventual.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHRegistrarServicio.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHUsuario.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHVehiculos.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmLogin.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmPadres.frmPGestionar.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmPadres.frmPTitulo.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.frmPrincipal.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.Properties.Resources.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.csproj.GenerateResource.cache
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.csproj.CoreCompileInputs.cache
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.exe
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.pdb
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmPMensaje.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\TAXIGRIVER\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmPadres.frmInicio.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\bin\Debug\taxidriver.exe.config
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\bin\Debug\taxidriver.exe
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\bin\Debug\taxidriver.pdb
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.csprojAssemblyReference.cache
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHChofer.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHCliente.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHEventual.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHRegistrarServicio.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHUsuario.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHVehiculos.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmLogin.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmPadres.frmInicio.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmPadres.frmPGestionar.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmPadres.frmPTitulo.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.frmPrincipal.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.Properties.Resources.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmPMensaje.resources
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.csproj.GenerateResource.cache
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.csproj.CoreCompileInputs.cache
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.csproj.CopyComplete
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.exe
+C:\Users\A S U S\Documents\DISEÑO DE SISTEMAS\PROYECTO RADIO TAXIS\project\taxidriver\taxidriver\obj\Debug\taxidriver.pdb
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\bin\Debug\taxidriver.exe.config
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\bin\Debug\taxidriver.exe
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\bin\Debug\taxidriver.pdb
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHChofer.resources
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHCliente.resources
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHEventual.resources
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHRegistrarServicio.resources
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHUsuario.resources
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmHijos.frmHVehiculos.resources
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmLogin.resources
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmPadres.frmInicio.resources
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmPadres.frmPGestionar.resources
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmPadres.frmPTitulo.resources
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.frmPrincipal.resources
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.VISTA.frmPMensaje.resources
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.exe
+C:\Users\ADMIN\Desktop\project\taxidriver\taxidriver\obj\Debug\taxidriver.pdb
